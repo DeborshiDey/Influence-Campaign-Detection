@@ -5,6 +5,11 @@ from pathlib import Path
 from typing import Optional
 
 from .utils import setup_logging, load_config, ensure_dir, project_root
+from .data import load_json
+from .preprocess import apply_normalization, deduplicate
+from .features import extract_features
+from .models import simple_score
+from .detection import threshold
 
 
 def cmd_prepare(config_path: Optional[str]) -> None:
@@ -33,8 +38,20 @@ def cmd_evaluate(config_path: Optional[str]) -> None:
 def cmd_infer(config_path: Optional[str], input_path: Optional[str]) -> None:
     setup_logging()
     cfg = load_config(config_path) if config_path else {}
-    payload = {"status": "inferred", "config": cfg, "input": input_path or ""}
-    print(json.dumps(payload))
+    if input_path:
+        records = load_json(input_path)
+        records = apply_normalization(records, field=cfg.get("data", {}).get("text_field", "text"))
+        records = deduplicate(records, key="id")
+        records = extract_features(records, field=cfg.get("data", {}).get("text_field", "text"))
+        records = simple_score(records)
+        records = threshold(records, t=cfg.get("detection", {}).get("score_threshold", 0.5))
+        summary = {
+            "count": len(records),
+            "positives": sum(1 for r in records if r.get("label_pred") == 1),
+        }
+        print(json.dumps({"status": "inferred", "summary": summary}))
+    else:
+        print(json.dumps({"status": "inferred", "summary": {"count": 0}}))
 
 
 def build_parser() -> argparse.ArgumentParser:

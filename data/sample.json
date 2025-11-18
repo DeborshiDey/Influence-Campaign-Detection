@@ -1,0 +1,5 @@
+[
+  {"id": 1, "text": "This is a short message", "src": "u1", "dst": "u2", "label": 0},
+  {"id": 2, "text": "This message contains enough words to be flagged by the simple length rule", "src": "u2", "dst": "u3", "label": 1},
+  {"id": 3, "text": "Another medium length post for testing the pipeline and thresholds", "src": "u1", "dst": "u3", "label": 0}
+]
