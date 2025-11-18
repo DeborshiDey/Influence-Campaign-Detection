@@ -1,0 +1,3 @@
+Main attachment: Influence_Campaign_Detection_Complete_Project.pdf
+Supporting docs: Influence_Campaign_Detection_Project_Framework.pdf, AI_Agent_Execution_Guide.pdf
+Quick reference: Complete_Deliverables_Summary.pdf

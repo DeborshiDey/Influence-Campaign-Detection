@@ -1,0 +1,13 @@
+{
+  "logging_level": "INFO",
+  "data": {
+    "input_path": "data/sample.json",
+    "text_field": "text"
+  },
+  "features": {
+    "length_threshold": 20
+  },
+  "detection": {
+    "score_threshold": 0.5
+  }
+}
