@@ -1,0 +1,219 @@
+{
+  "scrape_date": "2025-11-22T13:45:48.000184",
+  "reports": [
+    {
+      "url": "https://dfrac.org/en/2025/11/19/viral-classroom-video-claiming-islamic-indoctrination-found-to-be-fake/",
+      "title": "Viral Classroom Video Claiming ‘Islamic Indoctrination’ found to be Fake",
+      "claim": "A video is circulating online with the allegation that “young white children are being indoctrinated into Islam” and shown “raising their hands and chanting ‘Allahu Akbar’ in a classroom.”",
+      "verdict": "Fake",
+      "content": "Viral Classroom Video Claiming ‘Islamic Indoctrination’ found to be Fake\nFact Check en\nNovember 19, 2025\nNovember 19, 2025\nAayushi Rana\nA video is circulating online with the allegation that “young white children are being indoctrinated into Islam” and shown “raising their hands and chanting ‘Allahu Akbar’ in a classroom.”\nThe video looks like it was filmed in an elementary or middle school classroom, with a date and time stamp like CCTV footage. It shows 12 children in school uniforms kneeling and repeating “Allahu Akbar” after a female teacher who appears to be wearing a hijab.\nLink\nFact Check\nUpon investigation, we found the claim and the video to be fake. A closer examination reveals two clear signs of digital manipulation:\n1. The teacher appears to rise from her knees and sit down on a chair that is not visible at the start of the clip, nor is it seen being moved into the frame.\n2. The child on the far left in the front row has a hair tie that abruptly changes size from large to normal within five seconds. Additionally, no media outlet has reported on such an incident occurring in any British school.\nConclusion\nThe viral video claiming that children in a British classroom were being “indoctrinated into Islam” is digitally altered. There is no evidence linking the footage to any school, and the visual inconsistencies confirm it is a manipulated clip.\nDFRAC Analysis: Fake\nShare this…\nFacebook\nTwitter\nWhatsapp\n1Artboard 1 copy 2\nSnapchat\nCopy",
+      "platforms_mentioned": [
+        "Facebook",
+        "Twitter",
+        "WhatsApp"
+      ],
+      "language": "en",
+      "date_published": "2025-11-19",
+      "analysis": {
+        "language": "en",
+        "keywords": [
+          "video",
+          "classroom",
+          "fake",
+          "children",
+          "being",
+          "into",
+          "school",
+          "viral",
+          "claiming",
+          "found"
+        ],
+        "intention": {
+          "category": "religious",
+          "confidence": 0.33,
+          "match_count": 2,
+          "all_scores": {
+            "political": 1,
+            "religious": 2,
+            "health": 0,
+            "commercial": 0,
+            "communal": 0,
+            "international": 1,
+            "crime": 0,
+            "entertainment": 2
+          }
+        },
+        "sentiment": {
+          "sentiment": "neutral",
+          "polarity": -0.05,
+          "subjectivity": 0.4
+        },
+        "entities": {
+          "locations": [],
+          "organizations": [],
+          "persons": []
+        },
+        "categories": [
+          "video_misinformation",
+          "fabricated_content",
+          "ai_generated"
+        ]
+      }
+    },
+    {
+      "url": "https://dfrac.org/en/2025/11/18/allahabad-high-court-video-falsely-shared-as-a-supreme-court-protest-against-vote-theft/",
+      "title": "Allahabad High Court video falsely shared as a Supreme Court protest against vote theft",
+      "claim": "In a viral video on social media, lawyers can be seen walking on foot. Users are sharing this video claiming that it shows lawyers marching in the Supreme Court against vote theft. The text on the video reads, “The election will be cancelled Supreme Court. Against the vote thief.”While sharing this video, a user namedAdv. Nazneen Akhtarwrote, “A good step… friends what do you say should the election be cancelled?#vote_thief_leave_power”",
+      "verdict": "The",
+      "content": "Allahabad High Court video falsely shared as a Supreme Court protest against vote theft\nFact Check en\nMisleading-en\nNovember 18, 2025\nNovember 18, 2025\nAbhinav Singh\nIn a viral video on social media, lawyers can be seen walking on foot. Users are sharing this video claiming that it shows lawyers marching in the Supreme Court against vote theft. The text on the video reads, “The election will be cancelled Supreme Court. Against the vote thief.”\nWhile sharing this video, a user named\nAdv. Nazneen Akhtar\nwrote, “A good step… friends what do you say should the election be cancelled?\n#vote_thief_leave_power”\nLink\nApart from this, the video is being shared by many other users with the same caption, which can be seen\nhere\nand\nhere\n.\nFact Check:\nThe DFRAC team found in the investigation that the viral video is not from the Supreme Court. This video is from October during the Allahabad High Court Bar Association election, where lawyers were appealing for votes. On reverse searching the key frames of the video, we found that this video was shared by Allahabad High Court lawyer Aditya Singh Hunter on his Instagram account on 19 October 2025.\nLink\nFor more information about the video, our team contacted lawyer Aditya Singh Hunter. He told us that this video is from the time of the Allahabad High Court Bar Association election, when lawyers were appealing for votes. We found that several other videos related to the Bar Association election have also been posted on Aditya Singh’s\nInstagram\naccount.\nConclusion:\nThe DFRAC fact check makes it clear that the video shared on social media is not of lawyers marching in the Supreme Court against vote theft. This video is of lawyers appealing for votes during the Bar Association election at the Allahabad High Court. Therefore, the users’ claim is misleading.\nShare this…\nFacebook\nTwitter\nWhatsapp\n1Artboard 1 copy 2\nSnapchat\nCopy",
+      "platforms_mentioned": [
+        "Facebook",
+        "Twitter",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "language": "en",
+      "date_published": "2025-11-18",
+      "analysis": {
+        "language": "en",
+        "keywords": [
+          "video",
+          "court",
+          "supreme",
+          "lawyers",
+          "election",
+          "against",
+          "vote",
+          "allahabad",
+          "high",
+          "shared"
+        ],
+        "intention": {
+          "category": "political",
+          "confidence": 0.5,
+          "match_count": 2,
+          "all_scores": {
+            "political": 2,
+            "religious": 1,
+            "health": 0,
+            "commercial": 0,
+            "communal": 0,
+            "international": 0,
+            "crime": 1,
+            "entertainment": 0
+          }
+        },
+        "sentiment": {
+          "sentiment": "positive",
+          "polarity": 0.16,
+          "subjectivity": 0.44
+        },
+        "entities": {
+          "locations": [],
+          "organizations": [],
+          "persons": []
+        },
+        "categories": [
+          "video_misinformation",
+          "out_of_context",
+          "ai_generated"
+        ]
+      }
+    },
+    {
+      "url": "https://dfrac.org/en/2025/11/18/did-indian-and-pakistani-cricket-players-start-brawls-during-a-match-in-sharjah/",
+      "title": "Did Indian and Pakistani cricket players start brawls during a match in Sharjah?",
+      "claim": "Several social media users claim that a fight erupted during an India-Pakistan cricket match in Sharjah, UAE. The claim is also supported by a video that features Indian and Pakistani players fighting during the match.",
+      "verdict": "Therefore",
+      "content": "Did Indian and Pakistani cricket players start brawls during a match in Sharjah?\nFact Check en\nNovember 18, 2025\nNovember 18, 2025\nAbhinav Singh\nSeveral social media users claim that a fight erupted during an India-Pakistan cricket match in Sharjah, UAE. The claim is also supported by a video that features Indian and Pakistani players fighting during the match.\nA user on X, Vijayma70555375, posted this video with a caption on it that says, “Fight between Pakistani & Indian players in Sharjah”.\nLink\nFact-Check\nThe DFRAC team analysed the video and the associated claim, determining that it is fake. The last cricket match between India and Pakistan took place during the Asia Cup final on September 28, 2025. Since then, no official cricket match has occurred between the two teams. Additionally, the claim that a fight broke out during a match in Sharjah is also fake. The last game held at Sharjah Cricket Stadium was on September 5, 2025, between Pakistan and the UAE as part of the T20I series.\nLink\nTo verify the video’s authenticity, we took a screenshot and conducted a reverse image search. This led us to a TikTok user known for posting AI-generated videos, who first shared this fight video. The username of this account is jhatka_ai, and its bio indicates that it is specifically dedicated to posting AI-related content.\nLink\nAnother TikTok video was posted by this user, depicting a fight between India and Pakistan during a cricket match. It was also created using AI.\nLink\nConclusion\nTherefore, both the video and the associated claim are fake. No recent match has occurred between India and Pakistan in Sharjah, and the video is generated by AI.\nShare this…\nFacebook\nTwitter\nWhatsapp\n1Artboard 1 copy 2\nSnapchat\nCopy",
+      "platforms_mentioned": [
+        "Facebook",
+        "Twitter",
+        "X",
+        "WhatsApp",
+        "TikTok"
+      ],
+      "language": "en",
+      "date_published": "2025-11-18",
+      "analysis": {
+        "language": "en",
+        "keywords": [
+          "match",
+          "during",
+          "video",
+          "cricket",
+          "sharjah",
+          "claim",
+          "fight",
+          "pakistan",
+          "between",
+          "indian"
+        ],
+        "intention": {
+          "category": "international",
+          "confidence": 0.5,
+          "match_count": 1,
+          "all_scores": {
+            "political": 0,
+            "religious": 0,
+            "health": 0,
+            "commercial": 0,
+            "communal": 0,
+            "international": 1,
+            "crime": 0,
+            "entertainment": 1
+          }
+        },
+        "sentiment": {
+          "sentiment": "negative",
+          "polarity": -0.12,
+          "subjectivity": 0.4
+        },
+        "entities": {
+          "locations": [
+            "India",
+            "Pakistan"
+          ],
+          "organizations": [],
+          "persons": []
+        },
+        "categories": [
+          "video_misinformation",
+          "image_misinformation",
+          "fabricated_content",
+          "ai_generated"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "scrape_date": "2025-11-22T13:45:48.000184",
+    "total_reports": 3,
+    "by_intention": {
+      "religious": 1,
+      "political": 1,
+      "international": 1
+    },
+    "by_platform": {
+      "Facebook": 3,
+      "Twitter": 3,
+      "WhatsApp": 3,
+      "Instagram": 1,
+      "X": 1,
+      "TikTok": 1
+    },
+    "by_language": {
+      "en": 3
+    },
+    "by_verdict": {
+      "Fake": 1,
+      "The": 1,
+      "Therefore": 1
+    },
+    "by_sentiment": {
+      "neutral": 1,
+      "positive": 1,
+      "negative": 1
+    }
+  }
+}

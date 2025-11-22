@@ -1,0 +1,12 @@
+{
+  "status": "prepared",
+  "config": {
+    "data": {
+      "input_path": "C:\\Users\\daeiz\\AppData\\Local\\Temp\\pytest-of-daeiz\\pytest-0\\test_pipeline0\\data.json",
+      "text_field": "text"
+    },
+    "detection": {
+      "score_threshold": 0.5
+    }
+  }
+}
